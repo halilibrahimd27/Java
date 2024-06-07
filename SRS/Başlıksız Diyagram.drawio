@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T18:34:26.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ONN7U7K2aWlxtJWlYEXW" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T18:50:34.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CmJgaQHzZHDWs34IHB2s" version="24.5.2" type="github">
   <diagram name="Sayfa -1" id="F9p8h_KPN2AIbbvUdC_e">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
         <mxCell id="uS2kP-R8Upkv7Lsalodd-3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1218" y="1640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uS2kP-R8Upkv7Lsalodd-4" value="Oturum Aç / Kaydol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="uS2kP-R8Upkv7Lsalodd-4" value="Oturum Aç / Kaydol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1214" y="1665" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS2kP-R8Upkv7Lsalodd-5" value="Antrenor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -577,7 +577,7 @@
             <mxPoint x="1340" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TvXFgXrf-9tywOGuw9Qo-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TQ4YY_q4qZVOCzLpH_U3-36">
+        <mxCell id="TvXFgXrf-9tywOGuw9Qo-4" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="TQ4YY_q4qZVOCzLpH_U3-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="1133" as="sourcePoint" />
             <mxPoint x="1180" y="1065" as="targetPoint" />
